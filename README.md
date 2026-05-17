@@ -48,5 +48,24 @@ That's it. Setup takes 5 minutes.
 
 ## Safe & Official
 
+
+## Why not Telethon?
+
+Most Telegram auto-reply bots use **Telethon** — 
+a library that logs into your personal account.
+
+Problems with Telethon approach:
+- ❌ Requires your phone number + API credentials
+- ❌ Telegram can ban your personal account
+- ❌ Against Telegram Terms of Service
+- ❌ Your private conversations exposed to the bot
+
+**AutoInbox is different:**
+- ✅ Uses official Bot API only
+- ✅ Your account is never touched
+- ✅ Telegram-approved method
+- ✅ Zero risk of account ban
+
+
 Built on Telegram's official Chat Automation API.
 No Telethon. No user credentials. No ban risk.
